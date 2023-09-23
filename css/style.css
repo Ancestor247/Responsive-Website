@@ -88,8 +88,12 @@ img{
     border: 1px solid transparent;
     font-weight: 500;
     transition: var(--transition);
+    margin-top: 3rem;
 }
 
+.f__p{
+    margin-top: 2rem;
+}
 .btn:hover{
     background: transparent;
     color: var(--color-white);
